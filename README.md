@@ -6,9 +6,10 @@ Don't have a powerful GPU? No worries.
 
 Enjoy using InvokeAI through these easy to use Colab Notebooks.
 
-This repository has 2 colab notebooks for:
+This repository has 3 colab notebooks for:
+  - InvokeAI v5.2.0 (Latest)
+  - InvokeAI v3.6.2 (Old version)
   - InvokeAI v3.4.0 (Old version)
-  - InvokeAI v3.6.2 (Latest)
 
 which means you will enjoy latest InvokeAi Webui and all the latest features. 
 
