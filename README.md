@@ -25,5 +25,5 @@ To run the Notebook, follow these steps:
 You can also check video tutorial [on YouTube](https://www.youtube.com/watch?v=jnd-wQTEtpY).
 
 ## Note
-Due to the restrictions implemented by Google on Colab for using Stable Diffusion on Free Tier, you can face frequent runtime disconnections.
-In this case, just switch to other google account and run the notebook there as it always works 😉
+Due to [the restrictions](https://research.google.com/colaboratory/faq.html#runtime-terminations) implemented by Google on Colab for using Stable Diffusion on Free Tier, you can face frequent runtime disconnections.
+In this case, just switch to another Google account and run the Notebook there 😉
