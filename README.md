@@ -2,7 +2,7 @@
 
 Don't have a powerful GPU? No worries. 
 
-Enjoy using InvokeAI through these easy to use [Colab Notebooks](https://colab.research.google.com/) 👍
+Enjoy using [InvokeAI](https://github.com/invoke-ai/InvokeAI) through these easy to use [Colab Notebooks](https://colab.research.google.com/) 👍
 
 ## Notebooks
 This repository has 3 Colab notebooks.
