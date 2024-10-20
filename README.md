@@ -22,7 +22,7 @@ To run the Notebook, follow these steps:
 4. Click on the `InvokeAI Public URL: http://...` link to open the InvokeAI Web App.
 5. Enjoy using InvokeAI on Colab 😊
 
-Video tutorial is available  [on YouTube](https://www.youtube.com/watch?v=jnd-wQTEtpY).
+You can also check video tutorial [on YouTube](https://www.youtube.com/watch?v=jnd-wQTEtpY).
 
 ## Note
 Due to the restrictions implemented by Google on Colab for using Stable Diffusion on Free Tier, you can face frequent runtime disconnections.
