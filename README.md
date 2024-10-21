@@ -15,7 +15,7 @@ This repository has 3 Colab notebooks.
 
 ## Usage
 
-To run the Notebook, follow these steps:
+To run the `Colab v5.2.0` Notebook, follow these steps:
 1. Click on the badge of the Notebook you want to run.
 2. Follow the instructions in the notebook to run the code.
 3. Wait until message `Uvicorn running on http://...` appears.
